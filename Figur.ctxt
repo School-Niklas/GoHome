@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Figur
+comment1.params=f\ startX\ startY
+comment1.target=Figur(java.lang.String,\ int,\ int)
+comment2.params=
+comment2.target=void\ druckePosition()
+comment3.params=
+comment3.target=boolean\ gewonnen()
+comment4.params=richtung
+comment4.target=void\ gehe(int)
+numComments=5
